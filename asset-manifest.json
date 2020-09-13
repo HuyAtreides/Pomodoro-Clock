@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JavaScriptCaculator/static/css/main.8046bc2b.chunk.css",
+    "main.js": "/JavaScriptCaculator/static/js/main.b9f39c66.chunk.js",
+    "main.js.map": "/JavaScriptCaculator/static/js/main.b9f39c66.chunk.js.map",
+    "runtime-main.js": "/JavaScriptCaculator/static/js/runtime-main.16b295a2.js",
+    "runtime-main.js.map": "/JavaScriptCaculator/static/js/runtime-main.16b295a2.js.map",
+    "static/js/2.f05c351c.chunk.js": "/JavaScriptCaculator/static/js/2.f05c351c.chunk.js",
+    "static/js/2.f05c351c.chunk.js.map": "/JavaScriptCaculator/static/js/2.f05c351c.chunk.js.map",
+    "index.html": "/JavaScriptCaculator/index.html",
+    "precache-manifest.691022d493852ee14f8ec0a69a918271.js": "/JavaScriptCaculator/precache-manifest.691022d493852ee14f8ec0a69a918271.js",
+    "service-worker.js": "/JavaScriptCaculator/service-worker.js",
+    "static/css/main.8046bc2b.chunk.css.map": "/JavaScriptCaculator/static/css/main.8046bc2b.chunk.css.map",
+    "static/js/2.f05c351c.chunk.js.LICENSE.txt": "/JavaScriptCaculator/static/js/2.f05c351c.chunk.js.LICENSE.txt",
+    "static/media/Timer.scss": "/JavaScriptCaculator/static/media/digital-7.1e670d88.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b295a2.js",
+    "static/js/2.f05c351c.chunk.js",
+    "static/css/main.8046bc2b.chunk.css",
+    "static/js/main.b9f39c66.chunk.js"
+  ]
+}
