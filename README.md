@@ -1,2 +1,2 @@
-# Set up and run
-Try the app [hear](https://huyatreides.github.io/Pomodoro-Clock/).
+# Set Up And Run
+Try the app [here](https://huyatreides.github.io/Pomodoro-Clock/).
